@@ -1,0 +1,70 @@
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Tt]est[Rr]esult*/
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# Packages
+*.nupkg
+*.snupkg
+*.nuspec
+*.psess
+*.vsp
+*.vspx
+*.vspscc
+*.vssscc
+*.pidb
+*.svclog
+*.scc
+*.cache
+
+# Visual Studio Code coverage results
+*.coverage
+*.coveragexml
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# Visual Studio Test Explorer
+*.testsettings
+*.trx
+
+# Other
+*.dbmdl
+*.bak
+*.log
+*.tmp
+*.swp
+*.sqlite
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Rider
+.idea/
+
+# User-specific files
+*.userprefs
+*.orig
+
+# Others (optional but safe)
+.env
+Thumbs.db
+Desktop.ini
