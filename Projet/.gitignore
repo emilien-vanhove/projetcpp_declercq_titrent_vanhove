@@ -68,9 +68,3 @@ _ReSharper*/
 .env
 Thumbs.db
 Desktop.ini
-
-# CMake
-/build/
-CMakeFiles/
-CMakeCache.txt
-cmake_install.cmake
