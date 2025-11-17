@@ -131,7 +131,6 @@
     <ClCompile Include="ApproachController.cpp" />
     <ClCompile Include="AreaController.cpp" />
     <ClCompile Include="Controller.cpp" />
-    <ClCompile Include="data.cpp" />
     <ClCompile Include="include\header.cpp" />
     <ClCompile Include="Position.cpp" />
     <ClCompile Include="src\main.cpp" />
